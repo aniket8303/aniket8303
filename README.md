@@ -92,6 +92,17 @@ const aniket = {
 
 ---
 
+## 🏆 GreeksforGeeks Progress
+
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/profile/aniket8303">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
+  </a>
+</div>
+
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
