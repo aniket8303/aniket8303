@@ -11,7 +11,7 @@ const aniket = {
     "Algorithms",
   ],
   technologies: {
-    frontEnd: {
+    frontEnd: {   
       html: ["HTML5"],
       js: ["React", "Next.js", "TypeScript"],
       css: ["bootstrap"],
