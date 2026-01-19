@@ -96,7 +96,7 @@ const aniket = {
 ## 🏆 LeetCode Progress
 
 <div align="center">
-  <a href="https://leetcode.com/u/DMsIR7RxCc/">
+  <a href="https://leetcode.com/u/DMsIR7Rxc/">
     <img
       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
       alt="LeetCode Badge"
@@ -109,7 +109,7 @@ const aniket = {
 ## 🏆 GreeksforGeeks Progress
 
 <div align="center">
-  <a href="https://www.geeksforgeeks.org/profile/aniket8303">
+  <a href="https://www.geeksforgeeks.org/profile/aniket83">
     <img
       src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
       alt="GeeksforGeeks Badge"
@@ -137,9 +137,9 @@ const aniket = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket8303/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket8/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniket8303)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DMsIR7RxCc/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DMsIR7Rxc/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parekaraniket25@gmail.com)
   
 </div>
